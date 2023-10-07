@@ -20,7 +20,7 @@ Clone the repository:
 
 ```git clone https://github.com/dtingley11222/netscanner.git```
 
-```cd network-scanner```
+```cd netscanner```
 
 # Install dependencies:
 
@@ -31,7 +31,7 @@ Clone the repository:
 Run the script and enter the target IP address range when prompted.
 
 
-```python network_scanner.py```
+```python netscan.py```
 
 
 The script will scan the specified IP range and display the available devices on the network.
