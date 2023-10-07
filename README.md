@@ -15,20 +15,17 @@ For Windows users, you may need to install Npcap separately to enable packet cap
 Getting Started
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/yourusername/network-scanner.git
 cd network-scanner
 Install dependencies:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Usage
 Run the script and enter the target IP address range when prompted.
 
-bash
-Copy code
+
 python network_scanner.py
 The script will scan the specified IP range and display the available devices on the network.
 
