@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Network Scanner
 
 Network Scanner is a Python script that uses Scapy to scan a specified IP range and discover devices on the network.
