@@ -19,10 +19,12 @@ Clone the repository:
 cd network-scanner```
 Install dependencies:
 
-bash```
-pip install -r requirements.txt```
+
+```pip install -r requirements.txt```
+
 Run the script:
 ```python network_scanner.py```
+
 Enter the target IP address range when prompted.
 Saving Output
 The script allows you to save the scan results to a text file. After scanning, you will be prompted if you want to save the output to output.txt.
