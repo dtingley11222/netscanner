@@ -6,7 +6,7 @@ Network Scanner is a Python script that uses Scapy to scan a specified IP range 
 
 ## Prerequisites
 
-Before you run the script, make sure you have Python installed on your system. You will also need to install the required libraries. You can install them using pip:
+Before you run the script, make sure you have Python 3 installed on your system. You will also need to install the required libraries. You can install them using pip:
 
 ```
 pip install -r requirements.txt
