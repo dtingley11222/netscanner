@@ -18,7 +18,7 @@ For Windows users, you may need to install Npcap separately to enable packet cap
 Clone the repository:
 
 
-```git clone https://github.com/dtingley11222/netscanner```
+```git clone https://github.com/dtingley11222/netscanner.git```
 
 ```cd network-scanner```
 
