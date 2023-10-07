@@ -14,16 +14,15 @@ For Windows users, you may need to install Npcap separately to enable packet cap
 Usage
 Clone the repository:
 
-bash```
-git clone https://github.com/yourusername/network-scanner.git
+
+```git clone https://github.com/yourusername/network-scanner.git
 cd network-scanner```
 Install dependencies:
 
 bash```
 pip install -r requirements.txt```
 Run the script:
-bash```
-python network_scanner.py```
+```python network_scanner.py```
 Enter the target IP address range when prompted.
 Saving Output
 The script allows you to save the scan results to a text file. After scanning, you will be prompted if you want to save the output to output.txt.
